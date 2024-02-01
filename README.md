@@ -24,15 +24,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Projeto de um portifólio digital onde pode-se ver o Github e Instagram do usuario.
-[LINK PARA O PROJETO]()
-![image]()
+[LINK PARA O PROJETO](https://bugred.github.io/html-portifolio-ProjetoONE/)
+![image](![image](https://github.com/BugRed/html-portifolio-ProjetoONE/assets/22323829/24baeaa7-9502-40bb-8cd1-e08417c933b9)
+)
 
 
 
 
 ## :heavy_check_mark: Certificado
 
-Certificado adquirido através do curso ONE parceria entre ORACLE e ALURA Acesse o [Certificado]().
+Certificado adquirido através do curso ONE parceria entre ORACLE e ALURA Acesse o [Certificado](https://cursos.alura.com.br/certificate/a32820de-56bd-4a8b-b7a8-3c73923fb6de).
 
 ## :memo: Licença
 
