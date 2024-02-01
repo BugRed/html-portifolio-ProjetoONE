@@ -25,8 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto de um portifólio digital onde pode-se ver o Github e Instagram do usuario.
 [LINK PARA O PROJETO](https://bugred.github.io/html-portifolio-ProjetoONE/)
-![image](![image](https://github.com/BugRed/html-portifolio-ProjetoONE/assets/22323829/24baeaa7-9502-40bb-8cd1-e08417c933b9)
-)
+![image](https://github.com/BugRed/html-portifolio-ProjetoONE/assets/22323829/24baeaa7-9502-40bb-8cd1-e08417c933b9)
 
 
 
